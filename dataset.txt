@@ -1,0 +1,5 @@
+We have also uploaded our processed dataset (LibriSpeech adapted for DeepSpeech) at:
+
+https://drive.google.com/drive/folders/1BbOa6s62XAxBc_pXe2aXsxPLncQAktWd?usp=sharing
+
+Thanks!
